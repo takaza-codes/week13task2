@@ -47,3 +47,7 @@ button:hover {
 .resultLine {
     padding-top: 3rem;
 }
+
+.error {
+    color: red;
+}
